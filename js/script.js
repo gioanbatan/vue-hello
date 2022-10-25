@@ -10,7 +10,8 @@ const {createApp} = Vue;
 createApp( {
     data: function() {
         return {
-            message: "TEST"
+            message: "Boolean",
+            image: "https://picsum.photos/600"
         }
     }
 }
